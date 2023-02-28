@@ -193,9 +193,9 @@ plot_example2
 plot_example3
 
 %% AXIS EXAMPLES 
-% otan exoume 2 plots se subplot tote mporoume na valoume tin entoli 
+
 % linkaxes([h1 h2],'x'); 
-% wste otan kanoume zoom out na kanei zoom kai pao ta 2 plots tautoxrona
+
 
 
 
